@@ -5,3 +5,10 @@ F:\ITI Courses\32- VersionControl\Day1\AssignmentSolution\GithubRepo\Calc\Calc\o
 F:\ITI Courses\32- VersionControl\Day1\AssignmentSolution\GithubRepo\Calc\Calc\obj\Debug\Calc.csproj.CoreCompileInputs.cache
 F:\ITI Courses\32- VersionControl\Day1\AssignmentSolution\GithubRepo\Calc\Calc\obj\Debug\Calc.exe
 F:\ITI Courses\32- VersionControl\Day1\AssignmentSolution\GithubRepo\Calc\Calc\obj\Debug\Calc.pdb
+F:\GithubRepo\Calc\Calc\bin\Debug\Calc.exe.config
+F:\GithubRepo\Calc\Calc\bin\Debug\Calc.exe
+F:\GithubRepo\Calc\Calc\bin\Debug\Calc.pdb
+F:\GithubRepo\Calc\Calc\obj\Debug\Calc.csprojAssemblyReference.cache
+F:\GithubRepo\Calc\Calc\obj\Debug\Calc.csproj.CoreCompileInputs.cache
+F:\GithubRepo\Calc\Calc\obj\Debug\Calc.exe
+F:\GithubRepo\Calc\Calc\obj\Debug\Calc.pdb
